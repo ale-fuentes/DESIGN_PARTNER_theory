@@ -1,5 +1,5 @@
 # DESIGN PATTERNS : theory
-![](https://img.shields.io/badge/Author-Alejandro_Fuentes_|_fuentesra@hotmail.com-informational?style=flat&logoColor=white&color=4a4c4d)
+> ![](https://img.shields.io/badge/Author-Alejandro_Fuentes_|_fuentesra@hotmail.com-informational?style=flat&logoColor=white&color=4a4c4d)
 
 ---
 
@@ -52,6 +52,7 @@ When talked about `design pattern`, we say how to solve reoccurring problems in 
 
 ## List Design Patterns
 
+* [OOP](./README-oop.md)
 * [Singleton](./README-singleton.md)
 
 ## References
