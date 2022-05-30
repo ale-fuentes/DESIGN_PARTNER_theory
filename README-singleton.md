@@ -87,6 +87,16 @@ public class DesignPatternsApp {
 }
 ```
 
+After executing, our result is:
+
+```shell
+You city is on
+You city is off
+Is myCity of type City: true
+```
+
+## Conclution
+
 `Singleton` is a good practice for when we need one same object for all cycle life of our project. It's good since help with us save resources of hardware (memory, processing, etc).
 
 <!-- links and tools -->

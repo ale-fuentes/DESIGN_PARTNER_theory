@@ -53,7 +53,11 @@ When talked about `design pattern`, we say how to solve reoccurring problems in 
 ## List Design Patterns
 
 * [OOP](./README-oop.md)
+
+**Creational**
+
 * [Singleton](./README-singleton.md)
+* [Factory Method](./README-factorymethod.md)
 
 ## References
 * [¿Qué es un Patrón de Diseño?][link-msdn-bb972240-es] in spanish.
