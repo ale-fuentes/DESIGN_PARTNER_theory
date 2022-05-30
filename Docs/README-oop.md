@@ -1,5 +1,5 @@
 # DESIGN PATTERNS : OOP : theory
-[HOME](./README.md) 
+[HOME](../README.md) 
 > ![](https://img.shields.io/badge/Author-Alejandro_Fuentes_|_fuentesra@hotmail.com-informational?style=flat&logoColor=white&color=4a4c4d)
 
 One first step inner [OOP (Object-Oriented Programming)][link-oop-wkp].
@@ -9,7 +9,7 @@ This is a concept that has when a language has certain characteristics, such as 
 This is can be representation (using [UML][link-uml-wkp]) in a grid called `class diagram`, one example of it's:
 
 <p align = "center">
-<img src = "./sources/img/uml_class_example.png" alt="MySQL Shell for VS Code" style="width:70%">
+<img src = "../sources/img/uml_class_example.png" alt="MySQL Shell for VS Code" style="width:70%">
 </p>
 <p align = "center">
 Fig.1 - UML - singleton
@@ -35,7 +35,7 @@ If they all have wheels, and they have a transition system, etc.
 Ok, they are all a 'land vehicle'. God, here has our first inheritance:
 
 <p align = "center">
-<img src = "./sources/img/uml_class_example_inheritance.png" alt="MySQL Shell for VS Code" style="width:70%">
+<img src = "../sources/img/uml_class_example_inheritance.png" alt="MySQL Shell for VS Code" style="width:70%">
 </p>
 <p align = "center">
 Fig.1 - UML - ineritance between objects

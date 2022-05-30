@@ -1,5 +1,5 @@
 # DESIGN PATTERNS : SINGLETON : theory
-[HOME](./README.md) 
+[HOME](../README.md) 
 
 > ![](https://img.shields.io/badge/Author-Alejandro_Fuentes_|_fuentesra@hotmail.com-informational?style=flat&logoColor=white&color=4a4c4d)
 
@@ -9,7 +9,7 @@ In this site [Tutorial-Point][link-tutorialpoint-singleton] or [Source-Making][l
 The pattner which enabled do create one instance of our object in our project called `singleton`.
 
 <p align = "center">
-<img src = "./sources/img/uml_singleton.png" alt="MySQL Shell for VS Code" style="width:50%">
+<img src = "../sources/img/uml_singleton.png" alt="MySQL Shell for VS Code" style="width:50%">
 </p>
 <p align = "center">
 Fig.1 - UML - singleton
@@ -24,7 +24,7 @@ Its allow do one unique instance, where all other objects that need it, can do c
 
 
 <p align = "center">
-<img src = "./sources/img/design_patterns_singleton.png" alt="MySQL Shell for VS Code" style="width:100%">
+<img src = "../sources/img/design_patterns_singleton.png" alt="MySQL Shell for VS Code" style="width:100%">
 </p>
 <p align = "center">
 Fig.1 - design pattern - singleton

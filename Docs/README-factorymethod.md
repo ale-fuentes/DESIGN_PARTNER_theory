@@ -1,12 +1,12 @@
 # DESIGN PATTERNS : FACTORY METHOD   : theory
-[HOME](./README.md) 
+[HOME](../README.md) 
 
 > ![](https://img.shields.io/badge/Author-Alejandro_Fuentes_|_fuentesra@hotmail.com-informational?style=flat&logoColor=white&color=4a4c4d)
 
 In this `design pattern` we dont do instance one object wath we need, but yes ask to factory class that do create one object (that we need) for we.
 
 <p align = "center">
-<img src = "./sources/img/uml_factorymethod.png" alt="MySQL Shell for VS Code" style="width:70%">
+<img src = "../sources/img/uml_factorymethod.png" alt="MySQL Shell for VS Code" style="width:70%">
 </p>
 <p align = "center">
 Fig.1 - UML - factory method
