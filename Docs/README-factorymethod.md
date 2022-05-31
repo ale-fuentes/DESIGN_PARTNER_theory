@@ -130,9 +130,28 @@ public class FactoryMethodVehicleFactory {
 	}
 }
 ```
+**Testing**
+```java
+	private static void TestingFactoryMethod() {
+		System.out.println("Testing Factory Method\n----------");
+		FactoryMethodVehicleFactory factoryVehicle = new FactoryMethodVehicleFactory();
+		
+		IFactoryMethodVehicle vehicle1 = factoryVehicle.getVehicle("CAR");
+		System.out.println(vehicle1.toString());
+		
+		IFactoryMethodVehicle vehicle2 = factoryVehicle.getVehicle("TRUCK");
+		System.out.println(vehicle2.toString());
 
+		// don't have bicker
+		IFactoryMethodVehicle vehicle3 = factoryVehicle.getVehicle("BICKER");
+		System.out.println(vehicle3.toString());
+
+	}
+```
 **Results**
 ```shell
+Testing Factory Method
+----------
 CARD: number of wheels: 4
 TRUCK: number of wheels: 18
 EMPTY: Don't specified vehicle, number of wheels: 0

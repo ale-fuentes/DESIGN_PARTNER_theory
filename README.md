@@ -47,7 +47,7 @@ When talked about `design pattern`, we say how to solve reoccurring problems in 
 
 * UML
 * POO
-* One language of programation that support OO (I do use Java
+* One language of programation that support OO (I do use `Java`
 )
 
 ## List Design Patterns
@@ -58,15 +58,18 @@ When talked about `design pattern`, we say how to solve reoccurring problems in 
 
 * [Singleton](./Docs/README-singleton.md)
 * [Factory Method](./Docs/README-factorymethod.md)
+* [Abstract Factory](./Docs/README-abstractfactory.md)
 
 ## References
 * [¿Qué es un Patrón de Diseño?][link-msdn-bb972240-es] in spanish.
 * [Patrones Diseño y Arquitectura][link-patrones-disenio-es] <small>**by [Joan Sebastián Ramírez Pérez][about-SebastianRamrez]**</small> in spanish.
 * [Source Making][link-sourcemaking-dp] site.
+* [Tutorial Point][link-tutorialpoint-dp] site.
 
 
 <!-- links and miscelaneas -->
 [link-sourcemaking-dp]: https://sourcemaking.com/design_patterns
+[link-tutorialpoint-dp]: https://www.tutorialspoint.com/design_pattern/
 
 [link-msdn-bb972240-es]: https://docs.microsoft.com/es-es/previous-versions/bb972240(v=msdn.10)?redirectedfrom=MSDN
 [link-patrones-disenio-es]: https://es.slideshare.net/SebastianRamrez2/patrones-diseo-1
